@@ -28,7 +28,7 @@
       <bpmn:incoming>Flow_1ngg5mm</bpmn:incoming>
     </bpmn:endEvent>
     <bpmn:sequenceFlow id="Flow_1ngg5mm" sourceRef="Activity_0lz8vh9" targetRef="Event_00ptoy5" />
-    <bpmn:userTask id="Activity_17s8hxh" name="Approve MR" camunda:assignee="john">
+    <bpmn:userTask id="Activity_17s8hxh" name="Approve MR" camunda:formRef="" camunda:formRefBinding="latest" camunda:assignee="john">
       <bpmn:incoming>Flow_0629gl5</bpmn:incoming>
       <bpmn:outgoing>Flow_01yhmo6</bpmn:outgoing>
     </bpmn:userTask>
