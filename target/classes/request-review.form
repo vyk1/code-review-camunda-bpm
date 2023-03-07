@@ -18,26 +18,16 @@
       "key": "field_070rsmh"
     },
     {
-      "values": [
-        {
-          "label": "Approved",
-          "value": "true"
-        },
-        {
-          "label": "Rejected",
-          "value": "false"
-        }
-      ],
-      "label": "Radio",
-      "type": "radio",
-      "id": "Field_1nrgm0k",
-      "key": "field_0yde0mx"
-    },
-    {
       "label": "Commentary",
       "type": "textfield",
       "id": "Field_07xf144",
       "key": "field_0dig9xx"
+    },
+    {
+      "label": "Link",
+      "type": "textfield",
+      "id": "Field_0qqi0pd",
+      "key": "field_0z9lnih"
     }
   ],
   "type": "default",

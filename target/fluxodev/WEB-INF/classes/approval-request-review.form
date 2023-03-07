@@ -1,0 +1,41 @@
+{
+  "components": [
+    {
+      "text": "# Merge Request Approval (or not)",
+      "type": "text",
+      "id": "Field_0aupk86",
+      "properties": {}
+    },
+    {
+      "values": [
+        {
+          "label": "Approved",
+          "value": "true"
+        },
+        {
+          "label": "Rejected",
+          "value": "false"
+        }
+      ],
+      "label": "Status",
+      "type": "radio",
+      "id": "Field_1d6htpe",
+      "key": "field_0fbwlh9"
+    },
+    {
+      "label": "Commentary",
+      "type": "textfield",
+      "id": "Field_08xcagv",
+      "key": "field_08cr167"
+    }
+  ],
+  "type": "default",
+  "id": "approval-request-review",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

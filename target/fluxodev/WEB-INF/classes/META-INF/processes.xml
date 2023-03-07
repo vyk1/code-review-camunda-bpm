@@ -8,6 +8,8 @@
 
 		<resource>process.bpmn</resource>
 		<resource>request-review.form</resource>
+		<resource>approval-request-review.form</resource>
+		<resource>date-merge.form</resource>
 
 		<properties>
 			<property name="isDeleteUponUndeploy">false</property>

@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "label": "Date of Merge",
+      "type": "textfield",
+      "id": "Field_069z2jq",
+      "key": "field_1asmgyp"
+    }
+  ],
+  "type": "default",
+  "id": "date-merge",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}
