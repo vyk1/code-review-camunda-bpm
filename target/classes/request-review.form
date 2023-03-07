@@ -1,0 +1,52 @@
+{
+  "components": [
+    {
+      "text": "## Merge Request Review",
+      "type": "text",
+      "id": "Field_09mwfn8"
+    },
+    {
+      "label": "Developer ID",
+      "type": "textfield",
+      "id": "Field_0ejaztu",
+      "key": "field_0ctroog"
+    },
+    {
+      "label": "Merge Request ID",
+      "type": "textfield",
+      "id": "Field_1mqt128",
+      "key": "field_070rsmh"
+    },
+    {
+      "values": [
+        {
+          "label": "Approved",
+          "value": "true"
+        },
+        {
+          "label": "Rejected",
+          "value": "false"
+        }
+      ],
+      "label": "Radio",
+      "type": "radio",
+      "id": "Field_1nrgm0k",
+      "key": "field_0yde0mx"
+    },
+    {
+      "label": "Commentary",
+      "type": "textfield",
+      "id": "Field_07xf144",
+      "key": "field_0dig9xx"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1lq9ati",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}
