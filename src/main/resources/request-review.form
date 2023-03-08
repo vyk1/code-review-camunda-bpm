@@ -1,7 +1,7 @@
 {
   "components": [
     {
-      "text": "## Merge Request Review",
+      "text": "# Merge Request Review\n\nPlease, provide the following details to start the process",
       "type": "text",
       "id": "Field_09mwfn8"
     },
