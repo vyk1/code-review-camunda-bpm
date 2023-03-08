@@ -1,7 +1,7 @@
 {
   "components": [
     {
-      "text": "# Merge Request Approval (or not)",
+      "text": "# Merge Request Approval (or not)\n\nPlease fill the following form, in order to finish the process",
       "type": "text",
       "id": "Field_0aupk86",
       "properties": {}
