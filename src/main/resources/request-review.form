@@ -28,6 +28,13 @@
       "type": "textfield",
       "id": "Field_0qqi0pd",
       "key": "field_0z9lnih"
+    },
+    {
+      "action": "reset",
+      "label": "Reset",
+      "type": "button",
+      "id": "Field_152az4k",
+      "key": "field_011r6ve"
     }
   ],
   "type": "default",
